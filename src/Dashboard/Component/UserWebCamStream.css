@@ -1,0 +1,8 @@
+.base {
+}
+.inputBox {
+  width: 80%;
+  border: solid 1px #c4c4c4;
+  padding: 10px 20px;
+  margin: auto;
+}
